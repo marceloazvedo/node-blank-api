@@ -1,0 +1,40 @@
+{
+  "name": "node-blank-api",
+  "version": "0.0.1",
+  "description": "This is a blank project for creating a restful API on node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloazvedo/node-blank-api.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "mongoose",
+    "express",
+    "json"
+  ],
+  "author": "Marcelo Azevedo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "consign": "^0.1.2",
+    "express": "^4.12.3",
+    "jsonwebtoken": "^5.4.1",
+    "mongoose": "^4.3.1"
+  },
+  "apidoc": {
+    "name": "Documentation for Node.js Blank Project Restful API",
+    "version": "0.0.1",
+    "description": "This is a blank project for creating a restful API on node.js",
+    "title": "Node.js Blank Project Restful API"
+  },
+  "bugs": {
+    "url": "https://github.com/marceloazvedo/node-blank-api/issues"
+  },
+  "homepage": "https://github.com/marceloazvedo/node-blank-api#readme"
+}
